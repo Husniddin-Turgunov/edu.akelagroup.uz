@@ -1,0 +1,2 @@
+# edu.akelagroup.uz
+git
